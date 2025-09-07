@@ -1,0 +1,32 @@
+# Jekyll configuration for GitHub Pages
+title: "RuneScape Catalyst League Tasks Tracker"
+description: "Track your progress through RuneScape Catalyst League tasks with this interactive web application"
+url: ""
+baseurl: ""
+
+# GitHub Pages settings
+remote_theme: ""
+plugins: []
+
+# Exclude files from processing
+exclude:
+  - catalyst_league_scraper.py
+  - catalyst_league_tasks.csv
+  - README.md
+  - .gitignore
+  - "*.py"
+
+# Include important files
+include:
+  - index.html
+  - styles.css
+  - script.js
+  - catalyst_league_tasks.json
+  - img/
+
+# Jekyll processing
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages specific
+github: [metadata]

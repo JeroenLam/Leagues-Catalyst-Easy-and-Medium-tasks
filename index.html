@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RS Leagues Tasks Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>RuneScape Leagues Tasks Tracker</h1>
+        <div class="stats">
+            <span id="total-tasks">0</span> total tasks |
+            <span id="completed-tasks">0</span> completed |
+            <span id="total-points">0</span> total points
+        </div>
+    </header>
+
+    <main>
+        <div class="controls">
+            <button id="reset-btn" class="reset-button">Reset All Progress</button>
+            <input type="text" id="search-input" placeholder="Search tasks..." />
+        </div>
+
+        <div class="task-sections" id="task-sections">
+            <!-- All sections will be dynamically created here -->
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

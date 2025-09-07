@@ -1,0 +1,5634 @@
+{
+  "tasks": [
+    {
+      "Area": "Lumbridge",
+      "Task": "Progress through the Leagues tutorial to unlock your first relic.",
+      "Information": "Progress through the Leagues tutorial to unlock your first relic .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Climb to the top of the Wizards' Tower.",
+      "Information": "Climb to the top of the Wizards' Tower .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Have Ned make you some rope from balls of wool.",
+      "Information": "Have Ned make you some rope from balls of wool .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Siphon from a fire essling in the Runespan.",
+      "Information": "Siphon from a fire essling in the Runespan .",
+      "Requirements": "14 Runecrafting",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Convert at least one pale memory into energy.",
+      "Information": "Convert at least one pale memory into energy .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Edgeville",
+      "Task": "Kill a mugger near the Edgeville lodestone.",
+      "Information": "Kill a mugger near the Edgeville lodestone .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Edgeville",
+      "Task": "Mine some coal in the centre of Barbarian village.",
+      "Information": "Mine some coal in the centre of Barbarian Village .",
+      "Requirements": "20 Mining",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Fort",
+      "Task": "Use the bank in the workshop at Fort Forinthry.",
+      "Information": "Use the bank in the workshop at Fort Forinthry .",
+      "Requirements": "Partial completion of New Foundations",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Kill a giant rat in Lumbridge Swamp.",
+      "Information": "Kill a giant rat in Lumbridge Swamp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Kill a goblin in Lumbridge.",
+      "Information": "Kill a goblin in Lumbridge .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Kill a giant spider in Lumbridge or Lumbridge Swamp.",
+      "Information": "Kill a giant spider in Lumbridge or Lumbridge Swamp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Milk a cow.",
+      "Information": "Milk a cow .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Talk to Hans and find out how old you are.",
+      "Information": "Talk to Hans and find out how old you are.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Complete this quest.",
+      "Information": "Complete The Blood Pact .",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Catch some shrimp in the fishing spot to the east of Lumbridge Swamp.",
+      "Information": "Catch some shrimp in the fishing spot to the east of Lumbridge Swamp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Smelt a steel bar in the furnace in Lumbridge.",
+      "Information": "Smelt a steel bar in the furnace in Lumbridge .",
+      "Requirements": "20 Smithing",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Cook some rat meat on a campfire in Lumbridge Swamp.",
+      "Information": "Cook some rat meat on a campfire in Lumbridge Swamp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Mine iron ore from the mining site south-west of Lumbridge Swamp.",
+      "Information": "Mine iron ore from the mining site south-west of Lumbridge Swamp .",
+      "Requirements": "10 Mining",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Craft a water rune at the Water Altar.",
+      "Information": "Craft a water rune at the Water altar .",
+      "Requirements": "5 Runecrafting",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Complete a task from Jacquelyn, the Lumbridge Slayer master.",
+      "Information": "Complete a task from Jacquelyn , the Lumbridge Slayer master.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Slayer"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Fill a Charmed Sack with corruption at the Nexus in Lumbridge Swamp.",
+      "Information": "Fill a Charmed Sack with corruption at the Nexus in Lumbridge Swamp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Complete this quest.",
+      "Information": "Complete Necromancy!",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Upgrade a piece of Death Skull or Deathwarden equipment to tier 20.",
+      "Information": "Upgrade a piece of Death Skull or Deathwarden equipment to tier 20.",
+      "Requirements": "20 Necromancy , 15 Smithing (death skull) OR 15 Crafting (Deathwarden) Completion of Kili Row",
+      "Pts": "10",
+      "Tags": [
+        "Crafting",
+        "Easy",
+        "Smithing",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Craft some spirit or bone runes.",
+      "Information": "Craft some spirit or bone runes .",
+      "Requirements": "Partial completion of Rune Mythos",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Runecrafting",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Complete a Lesser Necroplasm ritual.",
+      "Information": "Complete a Lesser Necroplasm ritual .",
+      "Requirements": "5 Necromancy",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Conjure a skeleton at the City of Um ritual site.",
+      "Information": "Conjure a skeleton at the City of Um ritual site .",
+      "Requirements": "2 Necromancy Conjure Skeleton Warrior unlocked at the Well of Souls",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Conjure a zombie at the City of Um ritual site.",
+      "Information": "Conjure a Putrid Zombie at the City of Um ritual site.",
+      "Requirements": "40 Necromancy Conjure Putrid Zombie unlocked at the Well of Souls",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Conjure a ghost at the City of Um ritual site.",
+      "Information": "Conjure a Vengeful Ghost at the City of Um ritual site.",
+      "Requirements": "40 Necromancy Conjure Vengeful Ghost unlocked at the Well of Souls",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Kill a dark wizard.",
+      "Information": "Kill a dark wizard .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Enter the Earth Altar using an earth tiara or talisman.",
+      "Information": "Enter the earth altar using an earth tiara or talisman .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Have Elsie tell you a story.",
+      "Information": "Have Elsie tell you a story.",
+      "Requirements": "A cup of tea",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Give a bone to one of Varrock's stray dogs (or to your pet stray dog if you have one).",
+      "Information": "Give a bone to one of Varrock's stray dogs (or to your pet stray dog if you have one).",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Claim a free clue scroll from Zaida at the Grand Exchange.",
+      "Information": "Claim a free clue scroll from Zaida at the Grand Exchange.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Fort",
+      "Task": "Give Bill a beer in Fort Forinthry.",
+      "Information": "Give Bill a beer in Fort Forinthry.",
+      "Requirements": "A beer , partial completion of New Foundations",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Complete the Archaeology tutorial.",
+      "Information": "Complete the Archaeology tutorial .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Archaeology"
+      ]
+    },
+    {
+      "Area": "Fort",
+      "Task": "Make a plank yourself on the sawmill in Fort Forinthry.",
+      "Information": "Make a plank yourself on the sawmill in Fort Forinthry.",
+      "Requirements": "Partial completion of New Foundations",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Construction"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Mine some iron ore in the mining spot south-west of Varrock.",
+      "Information": "Mine some iron ore in the mining spot south-west of Varrock.",
+      "Requirements": "10 Mining",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Steal from the Varrock tea stall.",
+      "Information": "Steal from the Varrock tea stall .",
+      "Requirements": "5 Thieving",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Pan for an uncut jade at the Digsite.",
+      "Information": "Pan for an uncut jade at the Digsite.",
+      "Requirements": "Partial completion of The Dig Site",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Level up any of your skills for the first time.",
+      "Information": "Level up any of your skills for the first time.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 5 in any skill.",
+      "Information": "Reach level 5 in any skill.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 10 in any skill.",
+      "Information": "Reach level 10 in any skill.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 20 in any skill.",
+      "Information": "Reach level 20 in any skill.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach combat level 5.",
+      "Information": "Reach combat level 5.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach combat level 10.",
+      "Information": "Reach combat level 10.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach total level 50.",
+      "Information": "Reach total level 50.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach total level 100.",
+      "Information": "Reach total level 100.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine a copper ore.",
+      "Information": "Mine copper ore from a copper rock .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine 10 copper ore.",
+      "Information": "Mine 10 copper ore .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine a tin ore.",
+      "Information": "Mine tin ore from a tin rock .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine 10 tin ore.",
+      "Information": "Mine 10 tin ore .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Smelt a bronze bar.",
+      "Information": "Smelt a bronze bar .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Smelt 10 bronze bars.",
+      "Information": "Smelt 10 bronze bars .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Smith any bronze item.",
+      "Information": "Smith any bronze item.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine clay.",
+      "Information": "Mine clay .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make soft clay.",
+      "Information": "Make soft clay .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Crafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine any ore 5 times.",
+      "Information": "Mine any ore 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop any tree 5 times.",
+      "Information": "Chop any tree 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Woodcutting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop a basic tree.",
+      "Information": "Chop a basic tree .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Woodcutting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop 10 basic trees.",
+      "Information": "Chop 10 basic trees .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Woodcutting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop an oak tree.",
+      "Information": "Chop an oak tree .",
+      "Requirements": "10 Woodcutting",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Woodcutting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn any logs.",
+      "Information": "Burn any logs .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn any logs 5 times.",
+      "Information": "Burn any logs 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch a shrimp.",
+      "Information": "Catch a raw shrimp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 10 shrimp.",
+      "Information": "Catch 10 raw shrimp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch an anchovy.",
+      "Information": "Catch a raw anchovy .",
+      "Requirements": "15 Fishing",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch a herring.",
+      "Information": "Catch a raw herring .",
+      "Requirements": "10 Fishing",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Cook shrimp, meat, or chicken.",
+      "Information": "Cook raw shrimps , raw meat , or raw chicken .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Cook 10 shrimp, meat, or chicken.",
+      "Information": "Cook 10 raw shrimps , raw meat , or raw chicken .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn any food.",
+      "Information": "Burn any food.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch any fish 5 times.",
+      "Information": "Catch any fish 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Bury any bones.",
+      "Information": "Bury any bones .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Bury any bones 10 times.",
+      "Information": "Bury any bones 10 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Activate the thick skin, rock skin, or steel skin Prayer.",
+      "Information": "Activate the Thick Skin , Rock Skin , or Steel Skin prayer.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Prayer",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Run out of Prayer points.",
+      "Information": "Run out of Prayer points .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Prayer",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest a memory from a pale wisp.",
+      "Information": "Harvest a pale memory from a pale wisp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest 10 memories from a pale wisp.",
+      "Information": "Harvest 10 pale memories from a pale wisp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest any memory from a wisp 5 times.",
+      "Information": "Harvest any memory from a wisp 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pickpocket from a man or woman.",
+      "Information": "Pickpocket from a man or woman .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pickpocket from a man or woman 10 times.",
+      "Information": "Pickpocket from a man or woman 10 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Steal from any stall.",
+      "Information": "Steal from any stall .",
+      "Requirements": "2 Thieving for Vegetable Stalls",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Steal from any stall 10 times.",
+      "Information": "Steal from any stall 10 times.",
+      "Requirements": "2 Thieving for Vegetable Stalls",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pickpocket anyone 5 times.",
+      "Information": "Pickpocket anyone 5 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Rake any farming patch.",
+      "Information": "Rake any farming patch .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Plant seeds in any farming patch.",
+      "Information": "Plant seeds in any farming patch .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Plant seeds in any farming patch 10 times.",
+      "Information": "Plant seeds in any farming patch 10 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Add any compostable item to a compost bin.",
+      "Information": "Add any compostable item to a compost bin .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Have a tool leprechaun note any produce.",
+      "Information": "Have a tool leprechaun note any produce.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Use the Home Teleport spell to return to Lumbridge.",
+      "Information": "Use the Home Teleport spell to return to Lumbridge .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Eat a cabbage.",
+      "Information": "Eat a cabbage .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Food"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Eat a baked potato.",
+      "Information": "Eat a baked potato .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Food"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Eat an onion.",
+      "Information": "Eat an onion .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Food"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Kill an imp.",
+      "Information": "Kill an imp .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Kill a chicken.",
+      "Information": "Kill a chicken .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Claim a free item from any store.",
+      "Information": "Claim a free item from any store. E.g. a tinderbox from Lumbridge General Store",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Return a free item to any store.",
+      "Information": "Return a free item to any store. E.g. a tinderbox from Lumbridge General Store",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Sell an item to any store.",
+      "Information": "Sell an item to any store .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Listen to any musician.",
+      "Information": "Listen to any musician .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pick wheat from a field.",
+      "Information": "Pick wheat from a field.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Prospect any rock.",
+      "Information": "Prospect any rock .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "View the skillguide.",
+      "Information": "View the skill guide .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "!Starting"
+      ]
+    },
+    {
+      "Area": "Burthorpe",
+      "Task": "Complete a lap of the Burthorpe Agility course.",
+      "Information": "Complete a lap of the Burthorpe Agility course .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Kill a goblin raider boss in the Goblin Village.",
+      "Information": "Kill Hollowtoof during a Goblin Raid in the Goblin Village .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Get Harvey's ball back from the scary lady.",
+      "Information": "Complete Witch's House",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Tiffy Time",
+      "Information": "Sit on the bench with Sir Tiffy Cashien in Falador Park .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Pray to Bandos's remains.",
+      "Information": "Pray to Bandos's remains .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Dance in the Falador party room.",
+      "Information": "Dance in the Falador party room .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "PortSarim",
+      "Task": "Give Thurgo a redberry pie",
+      "Information": "Give Thurgo a redberry pie",
+      "Requirements": "10 Cooking Partial completion of The Knight's Sword",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Taverley",
+      "Task": "Build a God statue in Taverley.",
+      "Information": "Build a God statue in Taverley .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Construction"
+      ]
+    },
+    {
+      "Area": "Menaphos",
+      "Task": "Enter Menaphos.",
+      "Information": "Enter Menaphos .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Catch a whirligig at Het's Oasis.",
+      "Information": "Catch a whirligig at Het's Oasis .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Clear the Fort debris at the Kharid-et Dig Site.",
+      "Information": "Clear the Fort debris at the Kharid-et Dig Site .",
+      "Requirements": "12 Archaeology",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Archaeology"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 1 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the grand gold chest in room 1 of Pyramid Plunder in Sophanem .",
+      "Requirements": "21 Thieving Partial completion of Icthlarin's Little Helper",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 2 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the grand gold chest in room 2 of Pyramid Plunder in Sophanem .",
+      "Requirements": "31 Thieving Partial completion of Icthlarin's Little Helper",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 3 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the grand gold chest in room 3 of Pyramid Plunder in Sophanem .",
+      "Requirements": "41 Thieving Partial completion of Icthlarin's Little Helper",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Mine a gem rock at the Al Kharid mine.",
+      "Information": "Mine a gem rock at the Al Kharid mine .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Complete this quest.",
+      "Information": "Complete One Piercing Note .",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Kill a crocodile.",
+      "Information": "Kill a crocodile.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Create a spirit kalphite pouch at the obelisk south west of Pollnivneach.",
+      "Information": "Create a spirit kalphite pouch at the obelisk south west of Pollnivneach .",
+      "Requirements": "25 Summoning A pouch , 51 spirit shards , a blue charm , and a potato cactus",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Summoning"
+      ]
+    },
+    {
+      "Area": "Menaphos",
+      "Task": "Squish 10 corrupted scarabs.",
+      "Information": "Squish 10 corrupted scarabs .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Hand Simon Templeton a pyramid top.",
+      "Information": "Hand Simon Templeton a pyramid top .",
+      "Requirements": "30 Agility",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Use any of the magic carpets in the desert.",
+      "Information": "Use any of the magic carpets in the desert.",
+      "Requirements": "1,000",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Harvest a rose at Het's Oasis.",
+      "Information": "Harvest a rose at Het's Oasis .",
+      "Requirements": "30 Farming",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Lunar",
+      "Task": "Switch to the Lunar Spellbook at the astral altar.",
+      "Information": "Switch to the Lunar Spellbook at the astral altar .",
+      "Requirements": "Completion of Lunar Diplomacy",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Rock Crab in the Fremennik Province.",
+      "Information": "Defeat a Rock Crab in the Fremennik Province .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Cockatrice in the Fremennik Province.",
+      "Information": "Defeat a cockatrice in the Fremennik Province .",
+      "Requirements": "25 Slayer A mirror shield",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Slayer",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Troll in the Fremennik Province.",
+      "Information": "Defeat a troll in the Fremennik Province .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Deposit an item with Peer the Seer.",
+      "Information": "Deposit an item with Peer the Seer .",
+      "Requirements": "Completion of the easy Fremennik achievements",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Diary",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Use the Bank on Jatizso or Neitiznot.",
+      "Information": "Use the Bank on Jatizso or Neitiznot .",
+      "Requirements": "Partial completion of The Fremennik Isles",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Create a Guthix Rest Potion.",
+      "Information": "Create a Guthix rest potion.",
+      "Requirements": "18 Herblore Partial completion of One Small Favour",
+      "Pts": "10",
+      "Tags": [
+        "Herblore",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Catch a Sapphire Glacialis.",
+      "Information": "Catch a Sapphire Glacialis .",
+      "Requirements": "25 Hunter A butterfly net and jar",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Gnomes",
+      "Task": "Complete the Gnome Stronghold Agility Course.",
+      "Information": "Complete the Gnome Stronghold Agility Course .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Feldip",
+      "Task": "Catch a Crimson Swift in the Feldip Hills.",
+      "Information": "Catch a crimson swift in the Feldip Hills .",
+      "Requirements": "A bird snare",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Defeat a Tortoise with riders in Kandarin.",
+      "Information": "Defeat a tortoise with riders in Kandarin.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Seer",
+      "Task": "Complete You Are It.",
+      "Information": "Complete You Are It .",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Gnomes",
+      "Task": "Let Brimstail teleport you to the Rune Essence mine.",
+      "Information": "Let Brimstail teleport you to the Rune Essence mine .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Feldip",
+      "Task": "Equip a Marksman hat.",
+      "Information": "Equip a Marksman hat .",
+      "Requirements": "125 chompy bird kills",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Piscatoris",
+      "Task": "Obtain a Naragi engram from Orla Fairweather.",
+      "Information": "Obtain a Naragi engram from Orla Fairweather .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Learn how to raise your own animals at Manor Farm.",
+      "Information": "Complete the Player-owned farm tutorial at Manor Farm .",
+      "Requirements": "17 Farming 20 Construction",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Construction",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Piscatoris",
+      "Task": "Catch a Wild Kebbit.",
+      "Information": "Catch a wild kebbit .",
+      "Requirements": "23 Hunter Logs of any kind",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Enter the Wilderness from Ardougne.",
+      "Information": "Pull the lever in Ardougne .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Yanille",
+      "Task": "Teleport to Castle Wars with a Ring of Dueling.",
+      "Information": "Teleport to Castle Wars with a ring of dueling .",
+      "Requirements": "27 Magic 27 Crafting Materials to make a ring of dueling",
+      "Pts": "10",
+      "Tags": [
+        "Crafting",
+        "Easy",
+        "Exploration",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Gnomes",
+      "Task": "Make a Pineapple Punch cocktail.",
+      "Information": "Make a Pineapple Punch cocktail.",
+      "Requirements": "8 Cooking See pineapple punch for ingredients",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Complete the base camp tutorial.",
+      "Information": "Complete the Anachronia base camp tutorial .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Observe all the large dragonkin statues around Anachronia.",
+      "Information": "Observe all the large dragonkin statues around Anachronia .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Surge under the spine on Anachronia.",
+      "Information": "Complete Spinal Surgery .",
+      "Requirements": "5 Agility",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Set sail for Anachronia.",
+      "Information": "Set sail for Anachronia on The Stormbreaker docked at Varrock Dig Site .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Complete the Helping Laniakea miniquest.",
+      "Information": "Complete the Helping Laniakea miniquest .",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Complete Raksha, the Shadow Colossus quest.",
+      "Information": "Complete Raksha, the Shadow Colossus quest.",
+      "Requirements": "See quest page",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Obtain 100 potent herbs from Herby Werby.",
+      "Information": "Obtain 100 potent herbs from Herby Werby .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Cook a Rabbit in Tirannwn.",
+      "Information": "Cook a raw rabbit in Tirannwn .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Attempt to pass a leaf trap.",
+      "Information": "Attempt to pass a leaf trap .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Use the Bank in Lletya.",
+      "Information": "Use the bank in Lletya .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Charter a ship from Port Tyras.",
+      "Information": "Charter a ship from Port Tyras .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Climb the Tower of Voices.",
+      "Information": "Climb the Tower of Voices .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Burn some logs using the everlasting bonfire in the Tower of Voices.",
+      "Information": "Burn some logs using the everlasting bonfire in the Tower of Voices .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Activate the Prifddinas lodestone.",
+      "Information": "Activate the Prifddinas lodestone .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Activate the Tirannwn lodestone.",
+      "Information": "Activate the Tirannwn lodestone .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Restore your prayer using the altar in Lletya.",
+      "Information": "Restore your prayer using the altar in Lletya .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Prayer",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Collect 5 seaweed from anywhere on Karamja.",
+      "Information": "Collect 5 seaweed from anywhere on Karamja .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Fill up Luthas' crate near the Musa Point plantation with bananas and receive 30 coins for your work.",
+      "Information": "Fill up Luthas ' crate near the Musa Point plantation with bananas and receive 30 coins for your work.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Claim a ticket from Brimhaven Agility Arena.",
+      "Information": "Claim a ticket from Brimhaven Agility Arena .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Kill a snake.",
+      "Information": "Kill a snake .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Catch a Karambwanji.",
+      "Information": "Catch a Karambwanji .",
+      "Requirements": "5 Fishing",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Be assigned a Slayer task in Shilo Village.",
+      "Information": "Be assigned a Slayer task in Shilo Village .",
+      "Requirements": "100 Combat 50 Slayer Completion of Shilo Village",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Slayer"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Defeat a Greater Demon on Karamja.",
+      "Information": "Defeat a greater demon on Karamja .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Pick a pineapple on Karamja.",
+      "Information": "Pick a pineapple on Karamja .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Enter the Brimhaven Dungeon.",
+      "Information": "Enter the Brimhaven Dungeon .",
+      "Requirements": "875 coins",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Cross the spiky pit using the stepping stones within Brimhaven Dungeon.",
+      "Information": "Cross the spiky pit using the stepping stones within Brimhaven Dungeon .",
+      "Requirements": "12 Agility",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Use the bank at the Mage Arena.",
+      "Information": "Use the bank at the Mage Arena .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Bank/Shop"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat the Chaos Elemental.",
+      "Information": "Defeat the Chaos Elemental once.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat the Chaos Elemental.",
+      "Information": "Defeat the Chaos Elemental 100 times.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Reach a score of 10 using the strange switches in the Wilderness.",
+      "Information": "Reach a score of 10 using the strange switches in the Wilderness .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Jump over the Wilderness wall.",
+      "Information": "Jump over the Wilderness wall .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Activate the Wilderness lodestone.",
+      "Information": "Activate the Wilderness lodestone .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Daemonheim",
+      "Task": "Complete a Frozen floor in Daemonheim.",
+      "Information": "Complete a Frozen floor in Daemonheim .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Dungeoneering"
+      ]
+    },
+    {
+      "Area": "Daemonheim",
+      "Task": "Make use of either an autoheater, gem bag, herbicide, bonecrusher or charming imp.",
+      "Information": "Make use of either an autoheater, gem bag, herbicide, bonecrusher or charming imp.",
+      "Requirements": "The gem bag is the cheapest reward at 2000 dungeoneering tokens",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Dungeoneering"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Enter the chaos tunnels from an entrance in the Wilderness.",
+      "Information": "Enter the chaos tunnels from an entrance in the Wilderness.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat a Black Unicorn in the Wilderness.",
+      "Information": "Defeat a Black Unicorn in the Wilderness.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Complete an Easy Temple Trek.",
+      "Information": "Complete an Easy Temple Trek.",
+      "Requirements": "Completion of In Aid of the Myreque",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Craft a snelm.",
+      "Information": "Craft a snelm.",
+      "Requirements": "15 Crafting Any blamish shell",
+      "Pts": "10",
+      "Tags": [
+        "Crafting",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Defeat a Werewolf in Morytania.",
+      "Information": "Defeat a Werewolf in Morytania.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Pass through the Holy barrier.",
+      "Information": "Pass through the Holy barrier.",
+      "Requirements": "Defeat a Ghoul (Paterdomus)",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Gate Spectre-ations",
+      "Information": "Pass through the western gate of Port Phasmatys .",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Activate the Canafis lodestone.",
+      "Information": "Activate the Canifis lodestone.",
+      "Requirements": "Access to Morytania",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Kill anything on the ground floor of the Slayer Tower.",
+      "Information": "Kill anything on the ground floor of the Slayer Tower.",
+      "Requirements": "Access to Morytania",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Slayer",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Using either a Silver Sickle or the Invandis Flail, grow some fungus in the swamp using Bloom.",
+      "Information": "Cast Bloom using a blessed sickle or the Ivandis flail in Mort Myre Swamp .",
+      "Requirements": "18 Crafting Completion of Nature Spirit",
+      "Pts": "10",
+      "Tags": [
+        "Crafting",
+        "Easy",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Defeat 5 Feral Vampyres in the Haunted Woods.",
+      "Information": "Defeat 5 Feral Vampyres in the Haunted Woods.",
+      "Requirements": "Access to Morytania",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Use an ectophial to return to Port Phasmatys.",
+      "Information": "Use an ectophial to return to Port Phasmatys.",
+      "Requirements": "Completion of Ghosts Ahoy",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Visit Dragontooth Island by boat.",
+      "Information": "Visit Dragontooth Island by boat.",
+      "Requirements": "Ghostspeak amulet",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make 5 potions of any kind.",
+      "Information": "Make 5 potions of any kind.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Drink a Strength Potion.",
+      "Information": "Drink a Strength Potion.",
+      "Requirements": "Giving a limpwurt root and red spiders' eggs to the Apothecary",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Food"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make an Attack Potion.",
+      "Information": "Make an Attack Potion.",
+      "Requirements": "A clean guam and an eye of newt",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make a Necromancy Potion.",
+      "Information": "Make a Necromancy Potion.",
+      "Requirements": "11 Herblore A clean marrentill and cadava berries",
+      "Pts": "10",
+      "Tags": [
+        "Herblore",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 5 Grimy Guam.",
+      "Information": "Clean 5 Grimy Guam.",
+      "Requirements": "5 grimy guam",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 15 Grimy Tarromin.",
+      "Information": "Clean 15 Grimy Tarromin.",
+      "Requirements": "5 Herblore 15 grimy tarromin",
+      "Pts": "10",
+      "Tags": [
+        "Herblore",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 5 of any herb.",
+      "Information": "Clean 5 of any herb.",
+      "Requirements": "5 of any grimy herb",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 10 of any herb",
+      "Information": "Clean 10 of any herb",
+      "Requirements": "10 of any grimy herb",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch an Oak Shortbow (unstrung).",
+      "Information": "Fletch an Oak Shortbow (unstrung).",
+      "Requirements": "20 Fletching Oak logs",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch some Arrow Shafts.",
+      "Information": "Fletch some Arrow Shafts.",
+      "Requirements": "Logs of any kind",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch 50 Bronze bolts.",
+      "Information": "Fletch 50 Bronze bolts.",
+      "Requirements": "9 Fletching A bronze bar and 50 feathers",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 10 laps of any Agility course.",
+      "Information": "Complete 10 laps of any Agility course.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Smith 10 of any metal weapon or armour piece.",
+      "Information": "Smith 10 of any metal weapon or armour piece.",
+      "Requirements": "10 of any metal bar",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Open 30 Sedimentary Geodes.",
+      "Information": "Open 30 Sedimentary Geodes.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Maintain nearly maximum stamina when mining for 60 seconds.",
+      "Information": "Maintain nearly maximum stamina when mining for 60 seconds.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest a Grimy Marrentill.",
+      "Information": "Harvest a Grimy Marrentill.",
+      "Requirements": "9 Farming Marrentill seed",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest 10 Grimy Tarromin.",
+      "Information": "Harvest 10 Grimy Tarromin.",
+      "Requirements": "19 Farming Tarromin seeds",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Cook 5 fish.",
+      "Information": "Cook 5 fish.",
+      "Requirements": "5 of any raw fish",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make some Bread.",
+      "Information": "Make some Bread.",
+      "Requirements": "Bread dough",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make some flour.",
+      "Information": "Make some flour.",
+      "Requirements": "Wheat",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Offer 5 bones of any kind to an altar.",
+      "Information": "Offer 5 bones of any kind to an altar.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Offer 25 bones of any kind to an altar.",
+      "Information": "Offer 25 bones of any kind to an altar.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Scatter some Ashes.",
+      "Information": "Scatter some Ashes.",
+      "Requirements": "Any demonic ashes",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Scatter 25 ashes of any kind.",
+      "Information": "Scatter 25 ashes of any kind.",
+      "Requirements": "25 of any demonic ashes",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Restore 50 Prayer Points at an Altar at once.",
+      "Information": "Restore 50 Prayer Points at an Altar at once.",
+      "Requirements": "5 Prayer",
+      "Pts": "10",
+      "Tags": [
+        "Prayer",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Activate Superhuman or Ultimate Strength and Improved or Incredible Reflexes prayers at the same time.",
+      "Information": "Activate Superhuman or Ultimate Strength and Improved or Incredible Reflexes prayers at the same time.",
+      "Requirements": "16 Prayer",
+      "Pts": "10",
+      "Tags": [
+        "Prayer",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch a Baby Impling.",
+      "Information": "Catch a Baby Impling.",
+      "Requirements": "17 Hunter",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 10 Implings of any kind.",
+      "Information": "Catch 10 Implings of any kind.",
+      "Requirements": "17 Hunter",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 5 Hunter creatures.",
+      "Information": "Catch 5 Hunter creatures.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 5 Slayer tasks.",
+      "Information": "Complete 5 Slayer tasks.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Slayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pick 5 Flax.",
+      "Information": "Pick 5 Flax.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Crafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Spin 5 bowstring.",
+      "Information": "Spin 5 bowstring.",
+      "Requirements": "5 flax",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Crafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Surge a distance of one tile.",
+      "Information": "Surge a distance of one tile.",
+      "Requirements": "5 Agility",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Spin a Ball of Wool.",
+      "Information": "Spin a Ball of Wool.",
+      "Requirements": "Wool",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Crafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Iron armour without any upgrades.",
+      "Information": "Equip a full set of Iron armour without any upgrades.",
+      "Requirements": "10 Defence",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Green Dragonhide armour.",
+      "Information": "Equip a full set of Green Dragonhide armour.",
+      "Requirements": "40 Defence",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Imphide robes.",
+      "Information": "Equip a full set of Imphide robes.",
+      "Requirements": "10 Defence",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Spider silk robes.",
+      "Information": "Equip a full set of Spider silk robes.",
+      "Requirements": "20 Defence",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Store the items required for an emote clue in a Treasure Trail hidey-hole.",
+      "Information": "Store the items required for an emote clue in a Treasure Trail hidey-hole.",
+      "Requirements": "27 Construction 4 planks and 10 of any nails for an easy hidey-hole",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Construction",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete an Easy clue scroll.",
+      "Information": "Complete an Easy clue scroll.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 10 unique items for the General clue rewards collection log.",
+      "Information": "Collect 10 unique items for the General clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "10",
+      "Tags": [
+        "Easy",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Kill the lesser demon in the Wizards' Tower.",
+      "Information": "Kill the lesser demon in the Wizards' Tower.",
+      "Requirements": "Cannot be attacked with short-range melee",
+      "Pts": "30",
+      "Tags": [
+        "Killing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Hunt a yellow wizard in the RuneSpan and give them some items.",
+      "Information": "Hunt a yellow wizard in the RuneSpan and give them some items.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Use the Rune Goldberg Machine to create Vis wax.",
+      "Information": "Use the Rune Goldberg Machine to create Vis wax.",
+      "Requirements": "50 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Siphon from a nature esshound in the Runespan.",
+      "Information": "Siphon from a nature esshound in the Runespan.",
+      "Requirements": "44 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Draynor",
+      "Task": "Siphon Rune dust from a RuneSphere in the RuneSpan.",
+      "Information": "Siphon Rune dust from a RuneSphere in the RuneSpan.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Edgeville",
+      "Task": "Fully complete the Stronghold of Player Safety.",
+      "Information": "Fully complete the Stronghold of Player Safety.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Fort",
+      "Task": "Complete this quest.",
+      "Information": "Complete New Foundations .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Given by Explorer Jack in Lumbridge for completing all Beginner Tasks in Lumbridge.",
+      "Information": "Given by Explorer Jack in Lumbridge for completing all Beginner Tasks in Lumbridge.",
+      "Requirements": "See Beginner Lumbridge achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Complete this quest.",
+      "Information": "Complete Duck Quest .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Given by Bob, the axe seller in Lumbridge, for completing all Easy Tasks in Lumbridge.",
+      "Information": "Given by Bob, the axe seller in Lumbridge, for completing all Easy Tasks in Lumbridge.",
+      "Requirements": "See Easy Lumbridge achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Given by Ned in Draynor Village for completing all Medium Tasks in Lumbridge.",
+      "Information": "Given by Ned in Draynor Village for completing all Medium Tasks in Lumbridge.",
+      "Requirements": "See Medium Lumbridge achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Drink from the Tears of Guthix.",
+      "Information": "Drink from the Tears of Guthix.",
+      "Requirements": "Completion of Tears of Guthix quest",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Reach world 25 in Shattered Worlds.",
+      "Information": "Reach world 25 in Shattered Worlds.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Catch 20 imps in Puro-Puro.",
+      "Information": "Catch 20 imps in Puro-Puro.",
+      "Requirements": "17 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Complete this miniquest.",
+      "Information": "Complete Sheep Shearer miniquest .",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Cut a willow tree east of Lumbridge Castle.",
+      "Information": "Cut a willow tree east of Lumbridge Castle.",
+      "Requirements": "20 Woodcutting",
+      "Pts": "30",
+      "Tags": [
+        "Woodcutting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Craft 50 Water Runes.",
+      "Information": "Craft 50 Water Runes.",
+      "Requirements": "5 Runecrafting Water talisman or equivalent",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Pickpocket a H.A.M. member.",
+      "Information": "Pickpocket a H.A.M. member.",
+      "Requirements": "15 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Churn some butter.",
+      "Information": "Churn some butter.",
+      "Requirements": "38 Cooking Bucket of milk",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Craft 50 cosmic runes.",
+      "Information": "Craft 50 cosmic runes.",
+      "Requirements": "27 Runecrafting Cosmic talisman or equivalent, Completion of Lost City quest",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Steal a lantern from a cave goblin.",
+      "Information": "Steal a lantern from a cave goblin.",
+      "Requirements": "36 Thieving Completion of Death to the Dorgeshuun quest",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lumbridge",
+      "Task": "Use the range in Lumbridge Castle to bake a cake.",
+      "Information": "Use the range in Lumbridge Castle to bake a cake.",
+      "Requirements": "Completion of Cook's Assistant quest",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Have either a Putrid Zombie or Vengeful Ghost conjured while fighting the matching creature.",
+      "Information": "Have either a Putrid Zombie or Vengeful Ghost conjured while fighting the matching creature.",
+      "Requirements": "40 Necromancy Unlock the ability to conjure at tier 3 of talents , conduit , ectoplasm ?",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Learn how to craft moonstone jewellery.",
+      "Information": "Learn how to craft moonstone jewellery.",
+      "Requirements": "50 Necromancy Brown apron or keepsaked override",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Necromancy",
+        "Crafting"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Disgruntle an inhabitant of Um by wearing a bedsheet.",
+      "Information": "Disgruntle an inhabitant of Um by wearing a bedsheet.",
+      "Requirements": "Completion of Ghosts Ahoy quest, bedsheet , see Poor Imitation for NPCs which can be disgruntled",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Upgrade a piece of Death Skull or Deathwarden equipment to tier 50.",
+      "Information": "Upgrade a piece of Death Skull or Deathwarden equipment to tier 50.",
+      "Requirements": "20 Necromancy Completion of Necromancy! and Kili Row . See also Kili's Knowledge III",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Necromancy",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Complete a communion ritual using a memento.",
+      "Information": "Complete a communion ritual using a memento.",
+      "Requirements": "5 Necromancy Completion of Necromancy!",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Conjure a Phantom Guardian at the City of Um ritual site.",
+      "Information": "Conjure a Phantom Guardian at the City of Um ritual site.",
+      "Requirements": "70 Necromancy Conjure Phantom Guardian unlocked from the Well of Souls",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Necromancy"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Complete the easy City of Um Diary.",
+      "Information": "Complete the easy City of Um Diary.",
+      "Requirements": "See Easy Underworld achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Um",
+      "Task": "Complete the medium City of Um Diary.",
+      "Information": "Complete the medium City of Um Diary.",
+      "Requirements": "See Medium Underworld achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Given by Rat Burgiss south of Varrock for completing all Easy Tasks in Varrock.",
+      "Information": "Given by Rat Burgiss south of Varrock for completing all Easy Tasks in Varrock.",
+      "Requirements": "See Easy Varrock achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Given by Reldo in Varrock Palace's library for completing all Medium Tasks in Varrock.",
+      "Information": "Given by Reldo in Varrock Palace's library for completing all Medium Tasks in Varrock.",
+      "Requirements": "See Medium Varrock achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Edgeville",
+      "Task": "Browse through Oziach's Armour Shop.",
+      "Information": "Browse through Oziach's Armour Shop.",
+      "Requirements": "Completion of Dragon Slayer quest",
+      "Pts": "30",
+      "Tags": [
+        "Bank/Shop",
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Enter the Cooks Guild.",
+      "Information": "Enter the Cooks Guild.",
+      "Requirements": "32 Cooking Chef's hat of equivalent, see Cooks' Guild for alternatives",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Complete this quest.",
+      "Information": "Complete Demon Slayer .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Complete this quest.",
+      "Information": "Complete Vampyre Slayer .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Mine 50 pure essence.",
+      "Information": "Mine 50 pure essence.",
+      "Requirements": "30 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Pickpocket a Varrock guard.",
+      "Information": "Pickpocket a Varrock guard.",
+      "Requirements": "40 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Varrock",
+      "Task": "Gather and convert 50 bright memories.",
+      "Information": "Gather and convert 50 bright memories.",
+      "Requirements": "20 Divination",
+      "Pts": "30",
+      "Tags": [
+        "Divination",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 50 in any skill.",
+      "Information": "Reach level 50 in any skill.",
+      "Requirements": "Any skill at level 50",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach at least level 5 in all non-elite skills.",
+      "Information": "Reach at least level 5 in all non-elite skills.",
+      "Requirements": "All skills except Invention at level 5",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach at least level 10 in all non-elite skills.",
+      "Information": "Reach at least level 10 in all non-elite skills.",
+      "Requirements": "All skills except Invention at level 10",
+      "Pts": "30",
+      "Tags": [
+        "Easy",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach at least level 20 in all non-elite skills.",
+      "Information": "Reach at least level 20 in all non-elite skills.",
+      "Requirements": "All skills except Invention at level 20",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach combat level 50.",
+      "Information": "Reach combat level 50.",
+      "Requirements": "50 Combat level",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach total level 500.",
+      "Information": "Reach total level 500.",
+      "Requirements": "500 Total level",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine any ore 200 times.",
+      "Information": "Mine any ore 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop any tree 200 times.",
+      "Information": "Chop any tree 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Woodcutting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Chop a willow tree.",
+      "Information": "Chop a willow tree.",
+      "Requirements": "20 Woodcutting",
+      "Pts": "30",
+      "Tags": [
+        "Woodcutting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn any logs 200 times.",
+      "Information": "Burn any logs 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch any fish 200 times.",
+      "Information": "Catch any fish 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest any memory from a wisp 200 times.",
+      "Information": "Harvest any memory from a wisp 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Divination"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Pickpocket anyone 200 times.",
+      "Information": "Pickpocket anyone 200 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Thieving"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Plant seeds in any farming patch 100 times.",
+      "Information": "Plant seeds in any farming patch 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Unlock all of the Free to Play Lodestones.",
+      "Information": "Unlock all of the Free to Play Lodestones.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Exploration",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Burthorpe",
+      "Task": "Enter the Warriors Guild.",
+      "Information": "Enter the Warriors Guild.",
+      "Requirements": "Combined Attack and Strength level of 130, or 99 Attack , or 99 Strength",
+      "Pts": "30",
+      "Tags": [
+        "Exploration",
+        "Medium",
+        "Strength",
+        "Attack"
+      ]
+    },
+    {
+      "Area": "Burthorpe",
+      "Task": "Equip a defender.",
+      "Information": "Equip a defender.",
+      "Requirements": "Combined Attack and Strength level of 130, or 99 Attack , or 99 Strength",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Burthorpe",
+      "Task": "Charge an Amulet of Glory in the Heroes' Guild.",
+      "Information": "Charge an Amulet of Glory in the Heroes' Guild.",
+      "Requirements": "If not as a drop from revenant knights , 80 Crafting and 68 Magic to make it from scratch, or 83 Hunter to catch dragon implings Completion of Heroes' Quest",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Enter the Crafting Guild.",
+      "Information": "Enter the Crafting Guild.",
+      "Requirements": "40 Crafting",
+      "Pts": "30",
+      "Tags": [
+        "Crafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Easy Falador diary",
+      "Information": "Easy Falador diary",
+      "Requirements": "See Easy Falador achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Medium Falador diary",
+      "Information": "Medium Falador diary",
+      "Requirements": "See Medium Falador achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Kill the Giant Mole.",
+      "Information": "Kill the Giant Mole.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Kill the Giant Mole 100 times.",
+      "Information": "Kill the Giant Mole 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Steal some Wine of Zamorak from the Captured Temple, south of Goblin Village.",
+      "Information": "Steal some Wine of Zamorak from the Captured Temple, south of Goblin Village.",
+      "Requirements": "33 Magic for Telekinetic Grab (optional)",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Set up a dwarf cannon.",
+      "Information": "Set up a dwarf cannon.",
+      "Requirements": "Completion of Dwarf Cannon",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Complete a ceremonial sword at the Artisans' Workshop.",
+      "Information": "Complete a ceremonial sword at the Artisans' Workshop.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Falador",
+      "Task": "Mine some orichalcite in the Mining Guild.",
+      "Information": "Mine some orichalcite in the Mining Guild.",
+      "Requirements": "60 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Burthorpe",
+      "Task": "Harvest a herb from the troll stronghold herb patch.",
+      "Information": "Harvest a herb from the troll stronghold herb patch.",
+      "Requirements": "9 Farming to plant the lowest Herb seed. Completion of My Arm's Big Adventure",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Taverley",
+      "Task": "Kill a blue dragon in Taverley dungeon.",
+      "Information": "Kill a blue dragon in Taverley dungeon.",
+      "Requirements": "Dusty key or 70 Agility",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Taverley",
+      "Task": "Open the crystal chest in Taverley.",
+      "Information": "Open the crystal chest in Taverley.",
+      "Requirements": "A crystal key",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Complete a lap of the Het's Oasis agility course.",
+      "Information": "Complete a lap of the Het's Oasis agility course.",
+      "Requirements": "65 Agility",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Defeat the Kalphite Queen.",
+      "Information": "Defeat the Kalphite Queen.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Defeat the Kalphite Queen 100 times.",
+      "Information": "Defeat the Kalphite Queen 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Defeat 100 bosses in the Dominion Tower.",
+      "Information": "Defeat 100 bosses in the Dominion Tower.",
+      "Requirements": "Completion of at least 20 various quests",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Easy desert tasks.",
+      "Information": "Easy desert tasks.",
+      "Requirements": "See Easy Desert achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Medium desert tasks.",
+      "Information": "Medium desert tasks.",
+      "Requirements": "See Medium Desert achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Menaphos",
+      "Task": "Steal from the lamp stall in Menaphos.",
+      "Information": "Steal from the lamp stall in Menaphos.",
+      "Requirements": "46 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Buy some runes from Ali Morrisane.",
+      "Information": "Buy some runes from Ali Morrisane.",
+      "Requirements": "Completion of the runes portion of Ali the Trader",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Menaphos",
+      "Task": "Catch a catfish.",
+      "Information": "Catch a catfish.",
+      "Requirements": "60 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Restore a Pontifex signet ring.",
+      "Information": "Restore a Pontifex signet ring.",
+      "Requirements": "58 Archaeology A cut dragonstone , which may require 55 Crafting",
+      "Pts": "30",
+      "Tags": [
+        "Archaeology",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 4 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the Grand Gold Chest in room 4 of Pyramid Plunder in Sophanem.",
+      "Requirements": "51 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 5 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the Grand Gold Chest in room 5 of Pyramid Plunder in Sophanem.",
+      "Requirements": "61 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Sophanem",
+      "Task": "Search the Grand Gold Chest in room 6 of Pyramid Plunder in Sophanem.",
+      "Information": "Search the Grand Gold Chest in room 6 of Pyramid Plunder in Sophanem.",
+      "Requirements": "71 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Complete this quest.",
+      "Information": "Complete Smoking Kills .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Desert",
+      "Task": "Complete this quest.",
+      "Information": "Complete Desert Treasure .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "AlKharid",
+      "Task": "Repair the statue of Het at Het's Oasis.",
+      "Information": "Repair the statue of Het at Het's Oasis.",
+      "Requirements": "200 pieces of Het",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Lunar",
+      "Task": "Cast Moonclan Teleport.",
+      "Information": "Cast Moonclan Teleport.",
+      "Requirements": "69 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Move Your House to Rellekka.",
+      "Information": "Move Your House to Rellekka.",
+      "Requirements": "30 Construction",
+      "Pts": "30",
+      "Tags": [
+        "Construction",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Lunar",
+      "Task": "Craft 50 Astral Runes.",
+      "Information": "Craft 50 Astral Runes.",
+      "Requirements": "40 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Complete the Penguin Agility Course.",
+      "Information": "Complete the Penguin Agility Course.",
+      "Requirements": "30 Agility Completion of Cold War",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Catch a Snowy Knight.",
+      "Information": "Catch a Snowy Knight.",
+      "Requirements": "35 Hunter A butterfly net and jar",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Kurask in the Fremennik Province.",
+      "Information": "Defeat a Kurask in the Fremennik Province.",
+      "Requirements": "70 Slayer Leaf-bladed spear or other special weapon",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Slayer",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Dagannoth in the Fremennik Province.",
+      "Information": "Defeat a Dagannoth in the Fremennik Province.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Equip a Helm of Neitiznot.",
+      "Information": "Equip a Helm of Neitiznot.",
+      "Requirements": "55 Defence Completion of The Fremennik Isles",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat a Jelly in the Fremennik Province.",
+      "Information": "Defeat a Jelly in the Fremennik Province.",
+      "Requirements": "52 Slayer",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Slayer",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Complete Throne of Miscellania.",
+      "Information": "Complete Throne of Miscellania .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Complete Royal Trouble.",
+      "Information": "Complete Royal Trouble .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Equip a Granite Shield.",
+      "Information": "Equip a Granite Shield.",
+      "Requirements": "55 Defence , 55 Strength Either completion of Eadgar's Ruse or partial completion of The Fremennik Isles",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence",
+        "Strength"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Equip a full set of Graahk, Larupia or Kyatt hunter gear.",
+      "Information": "Equip a full set of Graahk, Larupia or Kyatt hunter gear.",
+      "Requirements": "31 Hunter to hunt spined larupia",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat any of the Dagannoth Kings 1 time.",
+      "Information": "Defeat any of the Dagannoth Kings 1 time.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Defeat any of the Dagannoth Kings 100 times.",
+      "Information": "Defeat any of the Dagannoth Kings 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Complete the Easy Fremennik Diary.",
+      "Information": "Complete the Easy Fremennik Diary.",
+      "Requirements": "See Easy Fremennik achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Ride a mine cart into Keldagrim.",
+      "Information": "Ride a mine cart into Keldagrim.",
+      "Requirements": "Completion of The Giant Dwarf",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Travel to the Mammoth Iceberg.",
+      "Information": "Travel to the Mammoth Iceberg.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Steal from the fish stall in Rellekka.",
+      "Information": "Steal from the fish stall in Rellekka.",
+      "Requirements": "42 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Harvest 100 sparkling energy from Sparkling Wisps.",
+      "Information": "Harvest 100 sparkling energy from Sparkling Wisps.",
+      "Requirements": "40 Divination",
+      "Pts": "30",
+      "Tags": [
+        "Divination",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Climb to the top of the lighthouse.",
+      "Information": "Climb to the top of the lighthouse.",
+      "Requirements": "Completion of Horror from the Deep",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Chop 10 Artic Pine trees.",
+      "Information": "Chop 10 Arctic Pine trees.",
+      "Requirements": "54 Woodcutting Partial completion of The Fremennik Isles",
+      "Pts": "30",
+      "Tags": [
+        "Woodcutting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Kill 25 Yaks.",
+      "Information": "Kill 25 Yaks.",
+      "Requirements": "Partial completion of The Fremennik Isles",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Interact with a pet rock.",
+      "Information": "Interact with a pet rock.",
+      "Requirements": "Partial completion of The Fremennik Trials",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Fremennik",
+      "Task": "Complete the Medium Fremennik Diary.",
+      "Information": "Complete the Medium Fremennik Diary.",
+      "Requirements": "See Medium Fremennik achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Fletch 50 Maple shieldbow (unstrung) in Kandarin.",
+      "Information": "Fletch 50 Maple shieldbow (unstrung) in Kandarin.",
+      "Requirements": "55 Fletching",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Pickpocket a Knight of Ardougne 50 times.",
+      "Information": "Pickpocket a Knight of Ardougne 50 times.",
+      "Requirements": "55 Thieving",
+      "Pts": "30",
+      "Tags": [
+        "Thieving",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Complete the Barbarian Outpost Agility Course.",
+      "Information": "Complete the Barbarian Outpost Agility Course.",
+      "Requirements": "35 Agility Completion of Bar Crawl (miniquest)",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Piscatoris",
+      "Task": "Equip a Spottier Cape.",
+      "Information": "Equip a Spottier Cape.",
+      "Requirements": "66 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Catch a Red Salamander.",
+      "Information": "Catch a Red Salamander.",
+      "Requirements": "59 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Enter the Fishing Guild.",
+      "Information": "Enter the Fishing Guild.",
+      "Requirements": "68 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Gnomes",
+      "Task": "Check a grown Papaya Tree inside Tree Gnome Stronghold.",
+      "Information": "Check a grown Papaya Tree inside Tree Gnome Stronghold.",
+      "Requirements": "57 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Defeat a Mithril Dragon.",
+      "Information": "Defeat a Mithril Dragon.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Yanille",
+      "Task": "Enter the Wizards' Guild.",
+      "Information": "Enter the Wizards' Guild.",
+      "Requirements": "66 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Defeat a Fire Giant in Kandarin.",
+      "Information": "Defeat a Fire Giant in Kandarin.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Seer",
+      "Task": "Use the Chivalry Prayer.",
+      "Information": "Use the Chivalry Prayer.",
+      "Requirements": "60 Prayer 65 Defence Completion of Knight Waves training ground",
+      "Pts": "30",
+      "Tags": [
+        "Prayer",
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Yanille",
+      "Task": "Win a Game of Castle Wars.",
+      "Information": "Win a Game of Castle Wars.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Seer",
+      "Task": "Complete Elemental Workshop II.",
+      "Information": "Complete Elemental Workshop II .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Feldip",
+      "Task": "Equip an Ogre Forester Hat.",
+      "Information": "Equip an Ogre Forester Hat.",
+      "Requirements": "400 chompy bird kills",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Complete the Easy Ardougne Diary.",
+      "Information": "Complete the Easy Ardougne Diary.",
+      "Requirements": "See Easy Ardougne achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Gnomes",
+      "Task": "Make one of each type of cocktail.",
+      "Information": "Make one of each type of cocktail.",
+      "Requirements": "37 Cooking",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Earn a total of 10,000 beans from selling animals.",
+      "Information": "Earn a total of 10,000 beans from selling animals.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Piscatoris",
+      "Task": "Hunt 10 Spotted Kebbits with the help of a falcon.",
+      "Information": "Hunt 10 Spotted Kebbits with the help of a falcon.",
+      "Requirements": "43 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Piscatoris",
+      "Task": "Complete The Needle Skips.",
+      "Information": "Complete The Needle Skips .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Ardougne",
+      "Task": "Complete the Medium Ardougne Diary.",
+      "Information": "Complete the Medium Ardougne Diary.",
+      "Requirements": "See Medium Ardougne achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Build your Player Lodge on Anachronia.",
+      "Information": "Build your Player Lodge on Anachronia.",
+      "Requirements": "40 Construction",
+      "Pts": "30",
+      "Tags": [
+        "Construction",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Purchase the herb bag and the herb bag upgrade from the Herby Werby reward shop.",
+      "Information": "Purchase the herb bag and the herb bag upgrade from the Herby Werby reward shop.",
+      "Requirements": "None, but requires 4 weeks worth of potent herbs",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Give Snoop some clean Dwarf weed.",
+      "Information": "Give Snoop some clean Dwarf weed.",
+      "Requirements": "70 Herblore if cleaning the herb yourself",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Harvest produce from 5 animals on Anachronia farm.",
+      "Information": "Harvest produce from 5 animals on Anachronia farm.",
+      "Requirements": "42 Farming , 45 Construction",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Complete the beginner sections of the Anachronia agility course.",
+      "Information": "Complete the beginner sections of the Anachronia agility course.",
+      "Requirements": "30 Agility",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Anachronia",
+      "Task": "Complete the novice sections of the Anachronia agility course.",
+      "Information": "Complete the novice sections of the Anachronia agility course.",
+      "Requirements": "50 Agility",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Complete the easy Tirannwn Diary.",
+      "Information": "Complete the easy Tirannwn Diary.",
+      "Requirements": "See Easy Tirannwn achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Check a grown Papaya Tree in Lletya.",
+      "Information": "Check a grown Papaya Tree in Lletya.",
+      "Requirements": "57 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Craft 50 Death Runes.",
+      "Information": "Craft 50 Death Runes.",
+      "Requirements": "65 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Move your house to Prifddinas.",
+      "Information": "Move your house to Prifddinas.",
+      "Requirements": "75 Construction",
+      "Pts": "30",
+      "Tags": [
+        "Construction",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Use an Elven Teleport Crystal.",
+      "Information": "Use an Elven Teleport Crystal.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Exploration",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Equip Iban's staff.",
+      "Information": "Equip Iban's staff.",
+      "Requirements": "50 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Catch 10 Pawyas in Isafdar.",
+      "Information": "Catch 10 Pawyas in Isafdar.",
+      "Requirements": "66 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Mine 200 soft clay in Prifddinas.",
+      "Information": "Mine 200 soft clay in Prifddinas.",
+      "Requirements": "75 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Use the fairy ring in the Amlodd district.",
+      "Information": "Use the fairy ring in the Amlodd district.",
+      "Requirements": "Partial completion of A Fairy Tale II - Cure a Queen",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "elves",
+      "Task": "Complete the medium Tirannwn Diary.",
+      "Information": "Complete the medium Tirannwn Diary.",
+      "Requirements": "See Medium Tirannwn achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Complete the easy Karamja Diary.",
+      "Information": "Complete the easy Karamja Diary.",
+      "Requirements": "See Easy Karamja achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Craft 50 Nature runes.",
+      "Information": "Craft 50 Nature runes.",
+      "Requirements": "44 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Catch a salmon on Karamja.",
+      "Information": "Catch a salmon on Karamja.",
+      "Requirements": "30 Fishing Completion of Shilo Village",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Get Stiles to exchange some of your fish for bank notes.",
+      "Information": "Get Stiles to exchange some of your fish for bank notes.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fishing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Convert 100 gleaming memories in an energy rift.",
+      "Information": "Convert 100 gleaming memories in an energy rift.",
+      "Requirements": "50 Divination",
+      "Pts": "30",
+      "Tags": [
+        "Divination",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Mine a drakolith rock in the Tai Bwo Wannai mine.",
+      "Information": "Mine a drakolith rock in the Tai Bwo Wannai mine.",
+      "Requirements": "60 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Mine a ruby from a gem rock in Shilo Village.",
+      "Information": "Mine a ruby from a gem rock in Shilo Village.",
+      "Requirements": "30 Mining Completion of Shilo Village",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Enter the Hardwood Grove in Tai Bwo Wannai.",
+      "Information": "Enter the Hardwood Grove in Tai Bwo Wannai.",
+      "Requirements": "Completion of Jungle Potion",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Exploration"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Complete this quest.",
+      "Information": "Complete Dragon Slayer .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Check a grown banana tree on Karamja.",
+      "Information": "Check a grown banana tree on Karamja.",
+      "Requirements": "33 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Defeat a TzHaar.",
+      "Information": "Defeat a TzHaar.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Equip an Obsidian cape.",
+      "Information": "Equip an Obsidian cape.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Kill a metal dragon in Brimhaven Dungeon.",
+      "Information": "Kill a metal dragon in Brimhaven Dungeon.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Catch 25 lobsters on Karamja.",
+      "Information": "Catch 25 lobsters on Karamja.",
+      "Requirements": "40 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Equip a Toktz-Ket-Xil.",
+      "Information": "Equip a Toktz-Ket-Xil.",
+      "Requirements": "60 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Equip a Tzhaar-Ket-Om.",
+      "Information": "Equip a Tzhaar-Ket-Om.",
+      "Requirements": "60 Strength",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Strength"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Equip a Toktz-Xil-Ak.",
+      "Information": "Equip a Toktz-Xil-Ak.",
+      "Requirements": "60 Attack",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Attack"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Equip a Toktz-Xil-Ek.",
+      "Information": "Equip a Toktz-Xil-Ek.",
+      "Requirements": "60 Attack",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Attack"
+      ]
+    },
+    {
+      "Area": "Karamja",
+      "Task": "Complete the medium Karamja Diary.",
+      "Information": "Complete the medium Karamja Diary.",
+      "Requirements": "See Medium Karamja achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Complete the easy Wilderness Diary.",
+      "Information": "Complete the easy Wilderness Diary.",
+      "Requirements": "See Easy Wilderness achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat the King Black Dragon.",
+      "Information": "Defeat the King Black Dragon once.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat the King Black Dragon.",
+      "Information": "Defeat the King Black Dragon 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Sacrifice Dragon bones on the Chaos Altar.",
+      "Information": "Sacrifice Dragon bones on the Chaos Altar.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Cast the Claws of Guthix special attack.",
+      "Information": "Cast the Claws of Guthix special attack.",
+      "Requirements": "60 Magic Completion of Mage Arena",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat 5 Green dragons.",
+      "Information": "Defeat 5 Green dragons.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Complete 10 laps of the Wilderness agility course.",
+      "Information": "Complete 10 laps of the Wilderness agility course.",
+      "Requirements": "52 Agility",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Equip a Saradomin, Zamorak, or Guthix cape.",
+      "Information": "Equip a Saradomin, Zamorak, or Guthix cape.",
+      "Requirements": "60 Magic Completion of Mage Arena",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Visit any Runecrafting altar through the Abyss.",
+      "Information": "Visit any Runecrafting altar through the Abyss.",
+      "Requirements": "Completion of Enter the Abyss (miniquest)",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat 10 Fetid Zombies.",
+      "Information": "Defeat 10 Fetid Zombies.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat 20 Bound Skeletons.",
+      "Information": "Defeat 20 Bound Skeletons.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Daemonheim",
+      "Task": "Defeat the Rammernaut.",
+      "Information": "Defeat the Rammernaut.",
+      "Requirements": "35 Dungeoneering",
+      "Pts": "30",
+      "Tags": [
+        "Dungeoneering",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat Bossy McBoss Face.",
+      "Information": "Defeat Bossy McBoss Face.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Activate and teleport from each of the Wilderness teleport obelisks.",
+      "Information": "Activate and teleport from each of the Wilderness teleport obelisks.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Exploration",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Defeat Bossy McBossface's first mate.",
+      "Information": "Defeat Bossy McBossface's first mate.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Wilderness",
+      "Task": "Complete the medium Wilderness Diary.",
+      "Information": "Complete the medium Wilderness Diary.",
+      "Requirements": "See Medium Wilderness achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Complete the easy Morytania Diary.",
+      "Information": "Complete the easy Morytania Diary.",
+      "Requirements": "See Easy Morytania achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Take a medium companion through a medium route of Temple Trekking.",
+      "Information": "Take a medium companion through a medium route of Temple Trekking.",
+      "Requirements": "Completion of In Aid of the Myreque",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Minigame"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Visit Mos Le'Harmless.",
+      "Information": "Visit Mos Le'Harmless.",
+      "Requirements": "Partial completion of Cabin Fever",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Visit Harmony Island.",
+      "Information": "Visit Harmony Island.",
+      "Requirements": "Partial completion of The Great Brain Robbery",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Quest"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Visit the Everlight dig site.",
+      "Information": "Visit the Everlight dig site.",
+      "Requirements": "42 Archaeology",
+      "Pts": "30",
+      "Tags": [
+        "Archaeology",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Finish a game of Werewolf Skullball.",
+      "Information": "Finish a game of Werewolf Skullball.",
+      "Requirements": "25 Agility Completion of Creature of Fenkenstrain",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Defeat the six Barrows Brothers and loot their chest.",
+      "Information": "Defeat the six Barrows Brothers and loot their chest once.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Defeat the six Barrows Brothers and loot their chest.",
+      "Information": "Defeat the six Barrows Brothers and loot their chest 100 times.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Killing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Equip a Barrows weapon.",
+      "Information": "Equip a Barrows weapon.",
+      "Requirements": "Either 70 Magic , 70 Attack , or 70 Ranged",
+      "Pts": "30",
+      "Tags": [
+        "Ranged",
+        "Medium",
+        "Magic",
+        "Attack"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Equip a piece of Barrows armour.",
+      "Information": "Equip a piece of Barrows armour.",
+      "Requirements": "70 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Equip a Salve Amulet (e).",
+      "Information": "Equip a Salve Amulet (e).",
+      "Requirements": "Completion of Lair of Tarn Razorlor (miniquest)",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Make a batch of cannonballs in Port Phasmatys.",
+      "Information": "Make a batch of cannonballs in Port Phasmatys.",
+      "Requirements": "35 Smithing Completion of Dwarf Cannon",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Catch 10 Green salamanders.",
+      "Information": "Catch 10 Green salamanders.",
+      "Requirements": "29 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Complete Haunted Mine.",
+      "Information": "Complete Haunted Mine .",
+      "Requirements": "See quest page",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Harvest bittercap mushrooms in the farming patch near Canifis.",
+      "Information": "Harvest bittercap mushrooms in the farming patch near Canifis.",
+      "Requirements": "53 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Morytania",
+      "Task": "Complete the medium Morytania Diary.",
+      "Information": "Complete the medium Morytania Diary.",
+      "Requirements": "See Medium Morytania achievements page",
+      "Pts": "30",
+      "Tags": [
+        "Diary",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make 200 potions of any kind.",
+      "Information": "Make 200 potions of any kind.",
+      "Requirements": "3 Herblore",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 200 of any herb.",
+      "Information": "Clean 200 of any herb.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch 1,000 Arrow Shafts.",
+      "Information": "Fletch 1,000 Arrow Shafts.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 25 laps of any Agility course.",
+      "Information": "Complete 25 laps of any Agility course.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Agility"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Smith 25 of any metal weapon or armour piece.",
+      "Information": "Smith 25 of any metal weapon or armour piece.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Cook 200 fish.",
+      "Information": "Cook 200 fish.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Cooking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Offer 100 bones of any kind to an altar.",
+      "Information": "Offer 100 bones of any kind to an altar.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Scatter 100 ashes of any kind.",
+      "Information": "Scatter 100 ashes of any kind.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Restore 500 Prayer Points at an Altar at once.",
+      "Information": "Restore 500 Prayer Points at an Altar at once.",
+      "Requirements": "50 Prayer",
+      "Pts": "30",
+      "Tags": [
+        "Prayer",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 25 Implings of any kind.",
+      "Information": "Catch 25 Implings of any kind.",
+      "Requirements": "17 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 35 Implings of any kind.",
+      "Information": "Catch 35 Implings of any kind.",
+      "Requirements": "17 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 200 Hunter creatures.",
+      "Information": "Catch 200 Hunter creatures.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 25 Easy clue scrolls.",
+      "Information": "Complete 25 Easy clue scrolls.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 75 Easy clue scrolls.",
+      "Information": "Complete 75 Easy clue scrolls.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 25 unique items for the General clue rewards collection log.",
+      "Information": "Collect 25 unique items for the General clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make 30 Prayer Potions.",
+      "Information": "Make 30 Prayer Potions.",
+      "Requirements": "38 Herblore",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make a 4-dose Potion.",
+      "Information": "Make a 4-dose Potion.",
+      "Requirements": "A botanist's amulet , Morytania legs 4 , Underworld Grimoire 1 , or a varanusaur pen with a farm totem at the Anachronia Dinosaur Farm",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Herblore"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make 20 Super Attack Potions.",
+      "Information": "Make 20 Super Attack Potions.",
+      "Requirements": "45 Herblore",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 50 Grimy Ranarr.",
+      "Information": "Clean 50 Grimy Ranarr.",
+      "Requirements": "25 Herblore",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Clean 50 Grimy Avantoe.",
+      "Information": "Clean 50 Grimy Avantoe.",
+      "Requirements": "48 Herblore",
+      "Pts": "30",
+      "Tags": [
+        "Herblore",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Harvest 5 Grimy Ranarr.",
+      "Information": "Harvest 5 Grimy Ranarr.",
+      "Requirements": "32 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip an Iron Crossbow.",
+      "Information": "Equip an Iron Crossbow.",
+      "Requirements": "10 Ranged",
+      "Pts": "30",
+      "Tags": [
+        "Ranged",
+        "Easy"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a Maple shieldbow.",
+      "Information": "Equip a Maple shieldbow.",
+      "Requirements": "30 Ranged , 30 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Ranged",
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch 50 Maple shieldbow (unstrung).",
+      "Information": "Fletch 50 Maple shieldbow (unstrung).",
+      "Requirements": "55 Fletching",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fletching"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch 400 Steel arrows.",
+      "Information": "Fletch 400 Steel arrows.",
+      "Requirements": "30 Fletching",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fletching",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Fletch 100 Iron bolts.",
+      "Information": "Fletch 100 Iron bolts.",
+      "Requirements": "39 Fletching",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Fletching",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine some Ore With a Rune Pickaxe",
+      "Information": "Mine some Ore With a Rune Pickaxe",
+      "Requirements": "50 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine 20 Mithril Ore.",
+      "Information": "Mine 20 Mithril Ore.",
+      "Requirements": "30 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine 30 Adamant Ore.",
+      "Information": "Mine 30 Adamant Ore.",
+      "Requirements": "40 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Mine 40 Runite Ore.",
+      "Information": "Mine 40 Runite Ore.",
+      "Requirements": "50 Mining",
+      "Pts": "30",
+      "Tags": [
+        "Mining",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Open 20 Igenous Geodes.",
+      "Information": "Open 20 Igenous Geodes.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Mining"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Check a grown Fruit Tree",
+      "Information": "Check a grown Fruit Tree",
+      "Requirements": "27 Farming",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Farming"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 100 Lobsters.",
+      "Information": "Catch 100 Lobsters.",
+      "Requirements": "40 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 50 Swordfish.",
+      "Information": "Catch 50 Swordfish.",
+      "Requirements": "50 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 50 Salmon.",
+      "Information": "Catch 50 Salmon.",
+      "Requirements": "30 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch 10 Pike.",
+      "Information": "Catch 10 Pike.",
+      "Requirements": "25 Fishing",
+      "Pts": "30",
+      "Tags": [
+        "Fishing",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make a Pineapple pizza.",
+      "Information": "Make a Pineapple pizza.",
+      "Requirements": "65 Cooking",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make a Stew.",
+      "Information": "Make a Stew.",
+      "Requirements": "25 Cooking",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Make a Chocolate Cake.",
+      "Information": "Make a Chocolate Cake.",
+      "Requirements": "50 Cooking",
+      "Pts": "30",
+      "Tags": [
+        "Cooking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Bury some Baby Dragon bones.",
+      "Information": "Bury some Baby Dragon bones.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Bury 5 Dragon bones.",
+      "Information": "Bury 5 Dragon bones.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Prayer"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Activate Protect from Melee prayer.",
+      "Information": "Activate Protect from Melee prayer.",
+      "Requirements": "43 Prayer",
+      "Pts": "30",
+      "Tags": [
+        "Prayer",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Catch a Gourmet Impling.",
+      "Information": "Catch a Gourmet Impling.",
+      "Requirements": "28 Hunter",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Hunter"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Light a Bullseye Lantern.",
+      "Information": "Light a Bullseye Lantern.",
+      "Requirements": "49 Firemaking Either 36 Thieving and completion of Death to the Dorgeshuun ; or 50 Quest points and the Lorehound pet unlocked; or 20 Smithing and 49 Crafting to create from scratch",
+      "Pts": "30",
+      "Tags": [
+        "Firemaking",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Teleport using Law runes.",
+      "Information": "Teleport using Law runes.",
+      "Requirements": "10 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Easy",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Craft some Combination runes.",
+      "Information": "Craft some Combination runes.",
+      "Requirements": "6 Runecrafting",
+      "Pts": "30",
+      "Tags": [
+        "Runecrafting",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Craft 100 runes.",
+      "Information": "Craft 100 runes.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Craft 1,000 runes.",
+      "Information": "Craft 1,000 runes.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Runecrafting"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Steel armour.",
+      "Information": "Equip a full set of Steel armour.",
+      "Requirements": "20 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Mithril armour.",
+      "Information": "Equip a full set of Mithril armour.",
+      "Requirements": "30 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Adamant armour.",
+      "Information": "Equip a full set of Adamant armour.",
+      "Requirements": "40 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Rune armour.",
+      "Information": "Equip a full set of Rune armour.",
+      "Requirements": "50 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Blue Dragonhide armour.",
+      "Information": "Equip a full set of Blue Dragonhide armour.",
+      "Requirements": "50 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Red Dragonhide armour.",
+      "Information": "Equip a full set of Red Dragonhide armour.",
+      "Requirements": "55 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Batwing robes.",
+      "Information": "Equip a full set of Batwing robes.",
+      "Requirements": "30 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a full set of Mystic robes.",
+      "Information": "Equip a full set of Mystic robes.",
+      "Requirements": "50 Defence",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Defence"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Create a Mithril Grapple.",
+      "Information": "Create a Mithril Grapple.",
+      "Requirements": "59 Fletching , 30 Smithing",
+      "Pts": "30",
+      "Tags": [
+        "Fletching",
+        "Medium",
+        "Smithing"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn 25 Willow logs.",
+      "Information": "Burn 25 Willow logs.",
+      "Requirements": "30 Firemaking",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Burn 50 Maple logs.",
+      "Information": "Burn 50 Maple logs.",
+      "Requirements": "45 Firemaking",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Firemaking"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip any elemental battlestaff.",
+      "Information": "Equip any elemental battlestaff.",
+      "Requirements": "30 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a mystic staff.",
+      "Information": "Equip a mystic staff.",
+      "Requirements": "40 Magic",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Magic"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Obtain 50 Quest Points.",
+      "Information": "Obtain 50 Quest Points.",
+      "Requirements": "50 Quest points",
+      "Pts": "30",
+      "Tags": [
+        "Quest",
+        "Medium"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 100 clues of any tier.",
+      "Information": "Complete 100 clues of any tier.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete a Medium clue scroll.",
+      "Information": "Complete a Medium clue scroll.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 25 Medium clue scrolls.",
+      "Information": "Complete 25 Medium clue scrolls.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 75 Medium clue scrolls.",
+      "Information": "Complete 75 Medium clue scrolls.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete a Hard clue scroll.",
+      "Information": "Complete a Hard clue scroll.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Complete 25 Hard clue scrolls.",
+      "Information": "Complete 25 Hard clue scrolls.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 5 unique items for the Easy clue rewards collection log.",
+      "Information": "Collect 5 unique items for the Easy clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 10 unique items for the Easy clue rewards collection log.",
+      "Information": "Collect 10 unique items for the Easy clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 5 unique items for the Medium clue rewards collection log.",
+      "Information": "Collect 5 unique items for the Medium clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 10 unique items for the Medium clue rewards collection log.",
+      "Information": "Collect 10 unique items for the Medium clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Collect 5 unique items for the Hard clue rewards collection log.",
+      "Information": "Collect 5 unique items for the Hard clue rewards collection log.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip any 2 pieces of an Elegant outfit.",
+      "Information": "Equip any 2 pieces of an Elegant outfit.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Equip a composite bow of any kind.",
+      "Information": "Equip a composite bow of any kind.",
+      "Requirements": "20 Ranged",
+      "Pts": "30",
+      "Tags": [
+        "Ranged",
+        "Medium",
+        "Clue Scroll"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Perform a Special Attack.",
+      "Information": "Perform a special attack .",
+      "Requirements": "5 Attack or 5 Ranged or 5 Magic (claimed from Gudrik in Port Sarim )",
+      "Pts": "30",
+      "Tags": [
+        "Ranged",
+        "Medium",
+        "Magic",
+        "Attack"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 30 in any skill.",
+      "Information": "Reach level 30 in any skill.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 40 in any skill.",
+      "Information": "Reach level 40 in any skill.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach level 60 in any skill.",
+      "Information": "Reach level 60 in any skill.",
+      "Requirements": "",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    },
+    {
+      "Area": "Global",
+      "Task": "Reach at least level 30 in all non-elite skills.",
+      "Information": "Reach at least level 30 in all non-elite skills.",
+      "Requirements": "All skills except Invention at level 30",
+      "Pts": "30",
+      "Tags": [
+        "Medium",
+        "Leveling"
+      ]
+    }
+  ],
+  "metadata": {
+    "total_tasks": 508,
+    "scraped_at": "2025-09-07 09:16:29 UTC",
+    "source_url": "https://runescape.wiki/w/Catalyst_League/Tasks"
+  }
+}
