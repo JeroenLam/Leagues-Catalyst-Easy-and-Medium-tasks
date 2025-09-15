@@ -194,51 +194,108 @@ class CatalystLeagueScraper:
         # Combine all text for analysis
         all_text = f"{task} {information} {requirements}".lower()
         
-        # Skill-based tags
-        skills = [
-            'mining', 'smithing', 'fishing', 'cooking', 'woodcutting', 'firemaking',
-            'crafting', 'fletching', 'runecrafting', 'construction', 'agility',
-            'herblore', 'thieving', 'slayer', 'farming', 'ranged', 'prayer',
-            'magic', 'divination', 'archaeology', 'hunter', 'summoning',
-            'dungeoneering', 'necromancy', 'attack', 'strength', 'defence'
-        ]
+        # Difficulty tags based on points (primary indicator)
+        if pts == '10':
+            tags.append('Easy')
+        elif pts == '30':
+            tags.append('Medium')
+        elif pts in ['50', '60', '100']:  # Hard tasks if they exist
+            tags.append('Hard')
         
-        for skill in skills:
-            if skill in all_text:
+        # Special starting tasks
+        if any(word in all_text for word in ['tutorial', 'leagues tutorial', 'first relic', 'skillguide']):
+            tags.append('!Starting')
+        
+        # Skill-based tags (comprehensive list) - use word boundaries for exact matching
+        skills = {
+            'mining': r'\bmining\b',
+            'smithing': r'\bsmithing\b',
+            'fishing': r'\bfishing\b',
+            'cooking': r'\bcooking\b',
+            'woodcutting': r'\bwoodcutting\b',
+            'firemaking': r'\bfiremaking\b',
+            'crafting': r'\bcrafting\b',
+            'fletching': r'\bfletching\b',
+            'runecrafting': r'\brunecrafting\b',
+            'construction': r'\bconstruction\b',
+            'agility': r'\bagility\b',
+            'herblore': r'\bherblore\b',
+            'thieving': r'\bthieving\b',
+            'slayer': r'\bslayer\b',
+            'farming': r'\bfarming\b',
+            'ranged': r'\branged\b',
+            'prayer': r'\bprayer\b',
+            'magic': r'\bmagic\b',
+            'divination': r'\bdivination\b',
+            'archaeology': r'\barchaeology\b',
+            'hunter': r'\bhunter\b',
+            'summoning': r'\bsummoning\b',
+            'dungeoneering': r'\bdungeoneering\b',
+            'necromancy': r'\bnecromancy\b',
+            'attack': r'\battack\b',
+            'strength': r'\bstrength\b',
+            'defence': r'\bdefence\b'
+        }
+        
+        import re
+        for skill, pattern in skills.items():
+            if re.search(pattern, all_text):
                 tags.append(skill.title())
         
-        # Activity-based tags
-        if any(word in all_text for word in ['quest', 'miniquest']):
+        # Special skill detection for activities that might not use exact skill names
+        if any(word in all_text for word in ['memory', 'wisp', 'energy', 'enrich']):
+            tags.append('Divination')
+        
+        # Activity-based tags - more comprehensive detection
+        
+        # Killing activities
+        if any(word in all_text for word in ['kill', 'defeat', 'slay', 'combat']):
+            tags.append('Killing')
+        
+        # Quest-related
+        if any(word in all_text for word in ['quest', 'miniquest', 'complete this quest']):
             tags.append('Quest')
         
+        # Diary/Achievement tasks
         if any(word in all_text for word in ['diary', 'achievement']):
             tags.append('Diary')
         
-        if any(word in all_text for word in ['boss', 'dragon', 'demon', 'giant', 'king']):
-            tags.append('Boss')
+        # Exploration activities - be more specific to avoid false positives
+        exploration_keywords = [
+            'climb to the top', 'enter the', 'visit', 'activate the', 'talk to', 'explore',
+            'activate.*lodestone', 'charter a ship', 'travel to', 'move your house',
+            'teleport to', 'set sail', 'ride a', 'jump over', 'pass through'
+        ]
         
-        if any(word in all_text for word in ['agility course', 'lap']):
-            tags.append('Agility Course')
+        # Use regex for more precise matching
+        for keyword in exploration_keywords:
+            if re.search(keyword, all_text):
+                tags.append('Exploration')
+                break
         
-        if any(word in all_text for word in ['guild']):
-            tags.append('Guild')
+        # Specific NPC interactions that count as exploration
+        if any(phrase in all_text for phrase in ['have ned make', 'give thurgo', 'give bill']):
+            tags.append('Exploration')
         
-        if any(word in all_text for word in ['clue', 'treasure']):
+        # Banking/Shopping
+        if any(word in all_text for word in ['bank', 'shop', 'store', 'buy', 'sell', 'claim a free item']):
+            tags.append('Bank/Shop')
+        
+        # Clue scrolls
+        if any(word in all_text for word in ['clue', 'treasure', 'hidey-hole', 'emote clue']):
             tags.append('Clue Scroll')
         
-        if any(word in all_text for word in ['teleport', 'lodestone']):
-            tags.append('Transportation')
+        # Minigames
+        if any(word in all_text for word in ['minigame', 'castle wars', 'temple trek', 'pyramid plunder', 'dominion tower', 'tears of guthix', 'shattered worlds']):
+            tags.append('Minigame')
         
-        if any(word in all_text for word in ['bank', 'shop', 'store']):
-            tags.append('Banking/Shopping')
+        # Leveling tasks
+        if any(word in all_text for word in ['level', 'reach level', 'total level', 'combat level']):
+            tags.append('Leveling')
         
-        # Point-based tags
-        if '10' in str(requirements) or pts == '10':
-            tags.append('Beginner')
-        elif '30' in str(requirements) or pts == '30':
-            tags.append('Intermediate')
-        elif any(num in all_text for num in ['50', '60', '70', '80', '90', '99']):
-            tags.append('Advanced')
+        # Food-related (eating tasks)
+        if any(word in all_text for word in ['eat a', 'drink a']):
+            tags.append('Food')
         
         # Remove duplicates and return
         return list(set(tags))
