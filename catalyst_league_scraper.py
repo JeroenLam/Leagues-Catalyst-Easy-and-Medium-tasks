@@ -320,17 +320,28 @@ class CatalystLeagueScraper:
                 headers = header_row.find_all(['th', 'td'])
                 header_texts = [self.clean_text(h).lower() for h in headers]
                 
-                # Look for our expected columns
+                # Look for our expected columns - must have all key headers
                 expected_headers = ['area', 'task', 'information', 'requirements', 'pts']
-                if any(expected in ' '.join(header_texts) for expected in expected_headers):
-                    logger.info("Found tasks table")
-                    return table
+                matching_headers = sum(1 for expected in expected_headers if expected in ' '.join(header_texts))
+                
+                # Ensure we have most of the expected headers and enough columns
+                if matching_headers >= 4 and len(headers) >= 5:
+                    # Additional check: make sure it's not a summary table
+                    # Summary tables typically have very few rows
+                    data_rows = table.find_all('tr')[1:]  # Skip header
+                    if len(data_rows) > 20:  # Real task table should have many rows
+                        logger.info(f"Found tasks table with {len(data_rows)} rows")
+                        return table
+                    else:
+                        logger.debug(f"Skipping table with only {len(data_rows)} rows (likely summary)")
         
-        # Fallback: look for table with sortable class (common in MediaWiki)
-        table = soup.find('table', class_=lambda x: x and 'sortable' in x)
-        if table:
-            logger.info("Found table with sortable class")
-            return table
+        # Fallback: look for table with sortable class that has many rows
+        sortable_tables = soup.find_all('table', class_=lambda x: x and 'sortable' in x)
+        for table in sortable_tables:
+            data_rows = table.find_all('tr')[1:]  # Skip header
+            if len(data_rows) > 20:
+                logger.info(f"Found sortable table with {len(data_rows)} rows")
+                return table
             
         logger.warning("Could not find tasks table")
         return None
